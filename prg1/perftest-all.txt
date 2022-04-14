@@ -1,0 +1,6 @@
+# Read performance tests of all operations
+read "../prg1/perftest-compulsory.txt"
+read "../prg1/perftest-all_subareas.txt"
+read "../prg1/perftest-places_closest_to.txt"
+read "../prg1/perftest-remove.txt"
+read "../prg1/perftest-common_area.txt"
